@@ -1,14 +1,14 @@
 # Личный проект «Девайс»
 
 * Студент: [Svetlana Samokhodkina](https://up.htmlacademy.ru/htmlcss/20/user/670321).
-* Наставник: `Неизвестно`.
+* Наставник: Дмитрий Мальнев
 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
----
+
 
 ### Памятка
 
